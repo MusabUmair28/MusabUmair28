@@ -19,8 +19,8 @@
 
 ⭐️ Feel free to reach out for collaborations or just a chat about web development!
 
-Projects:
-https://zippy-sunburst-635917.netlify.app/
-https://musabumair28.github.io/Html-Css-Email-template-maker/
-https://musabumair28.github.io/E--Commerce/
-https://musabumair28.github.io/hacagon1/
+### Projects:
+ - https://zippy-sunburst-635917.netlify.app/
+ - https://musabumair28.github.io/Html-Css-Email-template-maker/
+ - https://musabumair28.github.io/E--Commerce/
+ - https://musabumair28.github.io/hacagon1/
