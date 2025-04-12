@@ -8,7 +8,7 @@
 ### 🛠 Tech Stack
 - 💻 Frontend: HTML, CSS, JavaScript
 - 🎨 UI/UX: Tailwind CSS, BootstrapI
-- 🛠 Tools: Git, GitHub
+- 🛠 Tools: Git, GitHub, VS Code
 
 ### 📫 Let's Connect
 - Portfolio: [https://musabumair28.github.io/Musab-Umair/](PORTFOLIO)
