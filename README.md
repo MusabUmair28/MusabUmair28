@@ -1,19 +1,19 @@
 # Hi there, I'm MusabUmair28 👋
 
-## 🚀 Web Developer | Frontend & Backend Developer
-👀 I’m interested in Web & Mobile app developer
-🌱 I’m currently learning Web & Mobile app development
+## 🚀 Web Developer | Frontend Developer
+👀 I’m interested in Web & Mobile App developer
+🌱 I’m currently learning Web & Mobile App development
 
 
 ### 🛠 Tech Stack
-- 💻 Frontend: HTML, CSS, JavaScript
-- 🎨 UI/UX: Tailwind CSS, BootstrapI
-- 🛠 Tools: Git, GitHub, VS Code
+- 💻 Frontend: HTML, CSS & JavaScript
+- 🎨 UI/UX: Tailwind CSS & BootstrapI
+- 🛠 Tools: Git, GitHub & VS Code
 
 ### 📫 Let's Connect
 - Portfolio: [https://musabumair28.github.io/Musab-Umair/](PORTFOLIO)
 - LinkedIn: [linkedin.com/in/yourprofile](LINKDIN)
-- Email: [Razamusab500@gmail.com](GMAIL)
+- Email: [musabraza2626@gmail.com](GMAIL)
 
 ---
 
@@ -33,6 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white; border-radius:5px"/>
 </p>
 
