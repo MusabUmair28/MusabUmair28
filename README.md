@@ -7,7 +7,7 @@
 
 ### 🛠 Tech Stack
 - 💻 Frontend: HTML, CSS & JavaScript
-- 🎨 UI/UX: Tailwind CSS & BootstrapI
+- 🎨 UI/UX: Tailwind CSS & Bootstrap
 - 🛠 Tools: Git, GitHub & VS Code
 
 ### 📫 Let's Connect
